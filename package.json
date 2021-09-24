@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@babel/node": "^7.15.4",
+    "Babel": "^0.0.1",
+    "eslint": "^7.32.0",
+    "webpack": "^5.53.0"
+  }
+}
